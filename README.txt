@@ -1,8 +1,0 @@
-0805
-
-SETTING中:
-WIN_WIDTH = 1024
-WIN_HEIGHT = 576
-
-PATH_1[]、PATH_2[]、PATH_3[]有敵人的行進路線
-VACANCY[]有塔的座標
